@@ -1,0 +1,4 @@
+*.mid
+__pycache__/
+dictionary.pkl
+train_data_linear.npz
